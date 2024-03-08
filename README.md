@@ -10,7 +10,7 @@ dataProviders - Tudo que é fornecido por agenets externos, ou seja, uma api de 
 Faça o clone no git
 
 ```bash
-  https://github.com/davidrlmagallhaes/
+  git glone https://github.com/davidrlmagallhaes/api-administracao-clientes.git
 ```
 Acesse o diretório do projeto
 
